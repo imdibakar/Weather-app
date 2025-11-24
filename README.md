@@ -5,17 +5,18 @@ Once a user enters the city name, it automatically fetches data by triggering a 
 
 🚀 Features
 
-🔍 Takes city name as user input
+ Takes city name as user input
 
-☁️ Fetches real-time weather information using WeatherAPI
+ Fetches real-time weather information using WeatherAPI
 
-🌡️ Displays temperature, humidity, condition, wind speed, etc.
+ Displays temperature, humidity, condition, wind speed, etc.
 
-🖥️ Clean Tkinter-based GUI
+ Clean Tkinter-based GUI
 
-⚡ Fast API response handling
-
+ Fast API response handling
+------------------------------------------
 🛠️ Technologies Used
+
 
 Python
 
