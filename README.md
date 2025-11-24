@@ -4,6 +4,7 @@ It collects real time data from API such as the temperature, humidity, wind spee
 Once a user enters the city name, it automatically fetches data by triggering a response to the API. 
 
 🚀 Features
+-------------------------------------------
 
  Takes city name as user input
 
@@ -14,9 +15,9 @@ Once a user enters the city name, it automatically fetches data by triggering a 
  Clean Tkinter-based GUI
 
  Fast API response handling
-------------------------------------------
-🛠️ Technologies Used
 
+🛠️ Technologies Used
+-----------------------------------------
 
 Python
 
@@ -27,6 +28,7 @@ WeatherAPI (for weather data)
 Requests library
 
 📌 How It Works
+------------------------------------
 
 User enters the name of a city
 
